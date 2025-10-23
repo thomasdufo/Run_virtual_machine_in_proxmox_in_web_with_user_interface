@@ -1,6 +1,6 @@
 # Proxmox in web with user interface
 
-> ⚠️ **ATTENTION :** Make you sure you have virtualisation active on the server.
+> ⚠️ **WARNING :** Make you sure you have virtualisation active on the server.
 
 Create machine with proxmox and select graphical install at boot, agree to the license and select disk for install : 
 
