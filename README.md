@@ -97,3 +97,18 @@ And in other tab, choose your number of CPU or Memory and finish the creation.
 Now you have to run your virtual machine and install the system.
 
 When you have install your OS, you can shutdown your VM.
+
+Now you can right click on your VM and select Convert to template : 
+
+![convert_to_template](images/convert_template.png)
+
+Now to create VM, right click on the template and select clone : 
+
+![clone_template](images/clone.png)
+
+Give a name to the new VM and leave link clone to have rapid creation (but if template are delete, the VM is down) :
+
+![clone_name](images/clone_inter.png)
+
+
+
