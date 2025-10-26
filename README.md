@@ -55,3 +55,42 @@ And add the disk :
 To verify look the new disk and look the size : 
 
 ![new_disk](images/new_disk.png)
+
+
+To create VM, you need file in .iso, you can add this in graphical interface in local disk : 
+
+![add_iso](images/add_iso.png)
+
+or directly in the server in :
+
+```bash
+/var/lib/vz/template/iso
+```
+## Create template : 
+
+To create template, you must create VM and define this in template :
+
+To create VM, you must to log in proxmox GUI and go to create VM : 
+
+![create_vm](images/create-vm.png)
+
+
+Give a name : 
+
+![VM_name](images/name.png)
+
+Select your ISO : 
+
+![select_ISO](images/select_iso.png)
+
+
+In Disk, select your second disk and choose the capacity of your virtual disk :
+
+![choose_capacity](images/choose_storage.png)
+
+
+And in other tab, choose your number of CPU or Memory and finish the creation.
+
+![finish_creation](images/finish.png)
+
+
