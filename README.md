@@ -94,3 +94,6 @@ And in other tab, choose your number of CPU or Memory and finish the creation.
 ![finish_creation](images/finish.png)
 
 
+Now you have to run your virtual machine and install the system.
+
+When you have install your OS, you can shutdown your VM.
